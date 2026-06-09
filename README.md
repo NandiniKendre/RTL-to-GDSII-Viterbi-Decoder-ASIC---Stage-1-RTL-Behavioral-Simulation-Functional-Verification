@@ -1,0 +1,2 @@
+# RTL-to-GDSII-Viterbi-Decoder-ASIC---Stage-1-RTL-Behavioral-Simulation-Functional-Verification
+Performed RTL behavioral simulation of the K=7 Convolutional Encoder and Viterbi Decoder using Cadence SimVision. Verified serial data reception, ACS computation, survivor memory updates, traceback decoding, and sequential output generation. Functional correctness was validated using a 256-bit test sequence before proceeding to synthesis.

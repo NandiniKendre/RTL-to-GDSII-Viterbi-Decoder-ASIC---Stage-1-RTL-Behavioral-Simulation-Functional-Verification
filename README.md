@@ -172,8 +172,8 @@ The verified RTL design will be taken through the complete ASIC implementation f
 
 ### Author
 
-**Rutvij Kendre**  
-M.Tech (VLSI & Embedded Systems)  
+** Nandini Kendre**  
+M.Tech (VLSI Design)  
 Senior Research Fellow (C2S Program – MeitY, Government of India)
 
 ---
